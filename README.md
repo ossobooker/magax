@@ -1,3 +1,3 @@
-# M A G A | X
+# M A G A X
 
 Make Analysis Great Again (with jaX)
